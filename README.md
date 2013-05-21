@@ -1,3 +1,7 @@
+## Fork Goals
+1. integration with Trello
+2. module to estimation, burn down chart
+
 ## DAD - Day After Day
 
 DAD is not about tons of stats, charts, numbers, and graphs — it’s about two-way communication, conversation, simple scheduling,
